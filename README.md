@@ -96,7 +96,7 @@ STM32, Jetson, FreeRTOS, industrial automation (I2C, SPI, UART, CAN).
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=MrDaila007&show_icons=true&theme=github_dark&hide_border=true&hide=prs,issues&include_all_commits=true&count_private=true)](https://github.com/MrDaila007)
+[![GitHub Stats](./profile/stats.svg)](https://github.com/MrDaila007)
 
 <br>
 
